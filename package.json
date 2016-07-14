@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teh-dude/NodeJS-Express.git"
+  },
+  "author": "Eduardo Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teh-dude/NodeJS-Express/issues"
+  },
+  "homepage": "https://github.com/teh-dude/NodeJS-Express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
